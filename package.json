@@ -1,0 +1,24 @@
+{
+  "name": "bot-make-commit",
+  "version": "1.0.0",
+  "description": "Bot which make commit when you want and how you want.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tchoupinax/bot-make-commit.git"
+  },
+  "keywords": [
+    "Bot",
+    "Git",
+    "Drawing"
+  ],
+  "author": "Corentin Filoche",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tchoupinax/bot-make-commit/issues"
+  },
+  "homepage": "https://github.com/Tchoupinax/bot-make-commit#readme"
+}
