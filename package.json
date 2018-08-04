@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/Tchoupinax/bot-make-commit/issues"
   },
-  "homepage": "https://github.com/Tchoupinax/bot-make-commit#readme"
+  "homepage": "https://github.com/Tchoupinax/bot-make-commit#readme",
+  "dependencies": {
+    "moment": "^2.22.2"
+  }
 }
